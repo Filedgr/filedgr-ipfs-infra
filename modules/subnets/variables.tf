@@ -1,0 +1,3 @@
+variable "vpcId" {
+  type = string
+}
